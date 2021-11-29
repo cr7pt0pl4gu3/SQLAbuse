@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31717.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLAbuse", "SQLAbuse.csproj", "{D5486F68-6B63-47D0-AD8A-201A4623F67C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5486F68-6B63-47D0-AD8A-201A4623F67C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5486F68-6B63-47D0-AD8A-201A4623F67C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5486F68-6B63-47D0-AD8A-201A4623F67C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5486F68-6B63-47D0-AD8A-201A4623F67C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A755C7C6-6678-4126-8C8D-4F733F6C5643}
+	EndGlobalSection
+EndGlobal
