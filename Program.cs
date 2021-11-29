@@ -8,7 +8,7 @@ namespace SQL
         static void Main(string[] args)
         {
             Console.WriteLine("Starting!");
-            String sqlServer = "sql05.tricky.com";
+            String sqlServer = "sql05.server.com";
             String database = "master";
 
             String conString = "Server = " + sqlServer + "; Database = " + database + "; Integrated Security = True;";
